@@ -1,2 +1,1 @@
-# aofWebTasarimiSertifika
-Web Tasarımı için Kodlama Sertifika Programı
+# Web Tasarımı için Kodlama Sertifika Programı
